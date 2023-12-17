@@ -1,0 +1,34 @@
+>>> Total params: 26302920
+>>> Start training
+Epoch 0: train loss   4.696733, acc  0.0402, val loss   4.716304, acc  0.0387, 
+Update min_val_loss to   4.716304
+Epoch 1: train loss   3.832586, acc  0.1427, val loss   3.897119, acc  0.1378, 
+Update min_val_loss to   3.897119
+Epoch 2: train loss   3.334537, acc  0.2216, val loss   3.455338, acc  0.2048, 
+Update min_val_loss to   3.455338
+Epoch 3: train loss   2.991718, acc  0.2877, val loss   3.201600, acc  0.2553, 
+Update min_val_loss to   3.201600
+Epoch 4: train loss   2.670099, acc  0.3497, val loss   2.959940, acc  0.3016, 
+Update min_val_loss to   2.959940
+Epoch 5: train loss   2.440056, acc  0.3984, val loss   2.836475, acc  0.3312, 
+Update min_val_loss to   2.836475
+Epoch 6: train loss   2.229634, acc  0.4404, val loss   2.731487, acc  0.3504, 
+Update min_val_loss to   2.731487
+Epoch 7: train loss   2.005589, acc  0.4869, val loss   2.636779, acc  0.3731, 
+Update min_val_loss to   2.636779
+Epoch 8: train loss   1.801728, acc  0.5316, val loss   2.596349, acc  0.3871, 
+Update min_val_loss to   2.596349
+Epoch 9: train loss   1.609690, acc  0.5762, val loss   2.596241, acc  0.3970, 
+Update min_val_loss to   2.596241
+Epoch 10: train loss   1.421133, acc  0.6174, val loss   2.585185, acc  0.4023, 
+Update min_val_loss to   2.585185
+Epoch 11: train loss   1.234874, acc  0.6618, val loss   2.646564, acc  0.4065, 
+Epoch 12: train loss   1.079153, acc  0.6964, val loss   2.727883, acc  0.4027, 
+Epoch    13: reducing learning rate of group 0 to 1.0000e-04.
+Epoch 13: train loss   0.747752, acc  0.7957, val loss   2.632316, acc  0.4272, 
+Epoch 14: train loss   0.662612, acc  0.8171, val loss   2.690188, acc  0.4277, 
+Epoch    15: reducing learning rate of group 0 to 1.0000e-05.
+Epoch 15: train loss   0.646220, acc  0.8218, val loss   2.708223, acc  0.4307, 
+>>> Finished training
+>>> Finished plot loss
+Test score: 0.430234872611465

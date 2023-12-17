@@ -1,0 +1,56 @@
+>>> Total params: 26294856
+>>> Start training
+Epoch 0: train loss   4.957388, acc  0.0150, val loss   4.965395, acc  0.0148, 
+Update min_val_loss to   4.965395
+Epoch 1: train loss   4.942978, acc  0.0140, val loss   4.950999, acc  0.0148, 
+Update min_val_loss to   4.950999
+Epoch 2: train loss   4.841745, acc  0.0215, val loss   4.847952, acc  0.0208, 
+Update min_val_loss to   4.847952
+Epoch 3: train loss   4.633910, acc  0.0348, val loss   4.654724, acc  0.0327, 
+Update min_val_loss to   4.654724
+Epoch 4: train loss   4.555075, acc  0.0414, val loss   4.577130, acc  0.0426, 
+Update min_val_loss to   4.577130
+Epoch 5: train loss   4.516921, acc  0.0409, val loss   4.554683, acc  0.0399, 
+Update min_val_loss to   4.554683
+Epoch 6: train loss   4.453255, acc  0.0473, val loss   4.486646, acc  0.0475, 
+Update min_val_loss to   4.486646
+Epoch 7: train loss   4.235770, acc  0.0654, val loss   4.283682, acc  0.0628, 
+Update min_val_loss to   4.283682
+Epoch 8: train loss   4.128478, acc  0.0766, val loss   4.184868, acc  0.0729, 
+Update min_val_loss to   4.184868
+Epoch 9: train loss   4.074046, acc  0.0830, val loss   4.143571, acc  0.0788, 
+Update min_val_loss to   4.143571
+Epoch 10: train loss   3.989612, acc  0.0906, val loss   4.079343, acc  0.0847, 
+Update min_val_loss to   4.079343
+Epoch 11: train loss   3.941968, acc  0.0960, val loss   4.053610, acc  0.0911, 
+Update min_val_loss to   4.053610
+Epoch 12: train loss   3.884737, acc  0.1011, val loss   4.008382, acc  0.0936, 
+Update min_val_loss to   4.008382
+Epoch 13: train loss   3.859406, acc  0.1065, val loss   4.001877, acc  0.0980, 
+Update min_val_loss to   4.001877
+Epoch 14: train loss   3.814241, acc  0.1122, val loss   3.976042, acc  0.0997, 
+Update min_val_loss to   3.976042
+Epoch 15: train loss   3.772280, acc  0.1144, val loss   3.947251, acc  0.1032, 
+Update min_val_loss to   3.947251
+Epoch 16: train loss   3.718762, acc  0.1246, val loss   3.915830, acc  0.1069, 
+Update min_val_loss to   3.915830
+Epoch 17: train loss   3.672272, acc  0.1298, val loss   3.906508, acc  0.1113, 
+Update min_val_loss to   3.906508
+Epoch 18: train loss   3.621315, acc  0.1357, val loss   3.874309, acc  0.1153, 
+Update min_val_loss to   3.874309
+Epoch 19: train loss   3.589811, acc  0.1385, val loss   3.869590, acc  0.1154, 
+Update min_val_loss to   3.869590
+Epoch 20: train loss   3.564023, acc  0.1460, val loss   3.869653, acc  0.1207, 
+Epoch 21: train loss   3.509816, acc  0.1497, val loss   3.844796, acc  0.1235, 
+Update min_val_loss to   3.844796
+Epoch 22: train loss   3.518153, acc  0.1478, val loss   3.880680, acc  0.1182, 
+Epoch 23: train loss   3.417904, acc  0.1639, val loss   3.814462, acc  0.1271, 
+Update min_val_loss to   3.814462
+Epoch 24: train loss   3.374947, acc  0.1707, val loss   3.837539, acc  0.1302, 
+Epoch 25: train loss   3.382901, acc  0.1688, val loss   3.860380, acc  0.1308, 
+Epoch 26: train loss   3.307034, acc  0.1799, val loss   3.821728, acc  0.1389, 
+Epoch 27: train loss   3.254901, acc  0.1900, val loss   3.825573, acc  0.1352, 
+Epoch 28: train loss   3.216120, acc  0.1946, val loss   3.822717, acc  0.1409, 
+>>> Finished training
+>>> Finished plot loss
+Test score: 0.14072452229299362
